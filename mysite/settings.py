@@ -25,7 +25,7 @@ SECRET_KEY = 'euvp(w(6s0ad=i+=f*q8a8a5njuw#j7n^+gi9707q4=ird^e$_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','kermit7315.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1','kermit7315.pythonanywhere.com']
 
 
 # Application definition
